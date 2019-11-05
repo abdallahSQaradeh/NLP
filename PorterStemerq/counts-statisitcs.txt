@@ -1,0 +1,11 @@
+, 4
+can 1
+heat 1
+hello 1
+,lol 1
+help 1
+it 1
+you 1
+love 1
+me 5
+follow 1
